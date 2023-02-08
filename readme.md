@@ -1,0 +1,4 @@
+- git clone link-repo-kamu
+- git add nama-file/folder
+- git commit -m "tentang materi"
+- git push
